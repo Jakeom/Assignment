@@ -5,7 +5,7 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 ## Folder Structure
 ㅁㄴㅇㄹㄴㅁㅇㄹdddddasdfasdfasdfadsfasdf
 The workspace contains two folders by default, whereadsfasdfasdf:asdfasdfasdf
-asdfasdfasdf
+asdfasdfasdfasdfasdfasdf
 asdfasdf
 asdfasdfasdfasdf
 - `src`: the folder to maintain sources
