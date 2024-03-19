@@ -4,7 +4,7 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 
 ## Folder Structurea
 
-
+ddfdf
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependenciesadsfasdf
 
